@@ -1,5 +1,7 @@
 body{background-color: antiquewhite ;
      font-family: "Arial Narrow",Serif,serif;
      text-align: center}
-      .styled-button:hover{ background-color: #888888;border-radius: 5px}
+      .styled-button:hover{ background-color: cornflowerblue
+      ;border-radius: 5px} button{background-color: aqua}
+
 
